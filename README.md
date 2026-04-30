@@ -2,12 +2,11 @@
 
 **Author:** Clay Caldwell  
 **Contact:** wccaldwe@syr.edu
-**Organization:** Syracuse University | U.S. Army ERDC-CHL
-**Website:** https://github.com/wc-caldwell/WaterDig-AutoBAG
+**Organization:** Syracuse University / U.S. Army ERDC-CHL
+**Website:** [LinkedIn](https://www.linkedin.com/in/clay-caldwell-9530011a3/)
 
 ## Project Overview
-This project will develop automated interpolation methods for hydrographic survey point clouds within the U.S. Army eHydro program in an attempt to improve from the default TIN to improve dredging operations across the U.S.
-Breifly describe your research for anyone who finds this repository before reading your manuscript.* problem statement: why does your research matter
+* problem statement: why does your research matter
 * problem statement: what overarching theoretical, applied, societal, environmental problem does your research address? 
 * challenge statement: why has this problem not been solved before?
 * solution statement: what specific element of the challenge does your research resolve?
