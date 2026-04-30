@@ -1,4 +1,4 @@
-# AutoBAG
+# Research Template
 
 **Author:** Clay Caldwell  
 **Contact:** wccaldwe@syr.edu
