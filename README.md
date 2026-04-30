@@ -1,8 +1,8 @@
 # Research Template
 
 **Author:** Clay Caldwell  
-**Contact:** wccaldwe@syr.edu
-**Organization:** Syracuse University / U.S. Army ERDC-CHL
+**Contact:** wccaldwe@syr.edu  
+**Organization:** Syracuse University / U.S. Army ERDC-CHL  
 **Website:** [LinkedIn](https://www.linkedin.com/in/clay-caldwell-9530011a3/)
 
 ## Project Overview
