@@ -1,11 +1,8 @@
-
 name: Build and Push Container
-
 on:
   push:
     branches: [main]
   workflow_dispatch:
-
 jobs:
   build:
     name: Build Notebook Container
@@ -13,7 +10,6 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@main
-
       - name: Build with repo2docker
         uses: jupyterhub/repo2docker-action@master
         with:
@@ -22,4 +18,3 @@ jobs:
           DOCKER_REGISTRY: ghcr.io
           IMAGE_NAME: ${{ github.repository_owner }}/myproject
           ADDITIONAL_TAG: ${{ github.sha }}
-
