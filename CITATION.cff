@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 
-title: "AutoBAG"
+title: "research_template"
 
 message: >
   If you use this software, please cite it using the metadata below.
@@ -19,14 +19,14 @@ authors:
 
 identifiers:
   - type: url
-    value: "https://github.com/wc-caldwell/WaterDig-AutoBAG"
+    value: "https://github.com/wc-caldwell/WaterDig-research_template"
     description: GitHub repository
 
 
 
-repository-code: "https://github.com/wc-caldwell/WaterDig-AutoBAG"
+repository-code: "https://github.com/wc-caldwell/WaterDig-research_template"
 
-url: "https://github.com/wc-caldwell/WaterDig-AutoBAG"
+url: "https://github.com/wc-caldwell/WaterDig-research_template"
 
 abstract: >
   This project will develop automated interpolation methods for hydrographic survey point clouds within the U.S. Army eHydro program in an attempt to improve from the default TIN to improve dredging operations across the U.S.

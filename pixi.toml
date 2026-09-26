@@ -1,0 +1,18 @@
+[workspace]
+authors = ["wc-caldwell <clay.caldwell124@gmail.com>"]
+channels = ["conda-forge"]
+name = "research_template"
+platforms = ["osx-arm64", "linux-64", "win-64"]
+version = "0.1.0"
+
+[tasks]
+py_export = "pixi workspace export conda-environment -e py > environment.yml"
+r_export = "pixi workspace export conda-environment -e r > r_environment.yml"
+
+[feature.py.dependencies]
+
+[feature.r.dependencies]
+
+[environments]
+py = { features = ["py"], no-default-feature = true }                 
+r = { features = ["r"], no-default-feature = true }
